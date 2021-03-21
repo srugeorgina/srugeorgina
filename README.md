@@ -1,4 +1,4 @@
-### Data Analytics and Business Analytics Track 👋
+### Data Analyst and Business Analyst Track 👋
 
 <!--
 **srugeorgina/srugeorgina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
